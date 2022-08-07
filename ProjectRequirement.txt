@@ -1,0 +1,37 @@
+Project Name: Smartwallet1.0
+    Phase1
+1. Register a  customer
+2. Able to update a Customer
+3. Able to delete a customer
+4. Able to search customer by name
+5. An application for everywhere
+
+Requirement Gathering 
+    Design
+   Archietecture Design (Model) 
+   1. Web App
+  --  Server Side Apllication
+  --  SPA
+      Angular
+      REACT
+      VUE
+      Blazzor
+      Blazzor Web Assembly
+
+      .Net Framework: It can only be deplpoyed on windows platform 
+    ---  .Net 6 [.Net Core]
+      It can be deployed on any platform and it fast and cloud friendly
+    --- C#, VB.Net, F#, Python, C++
+
+   Migration of Entity is done by:
+   dotnet ef migration add Init
+   When you are using code first Approach
+
+   If you want to add new Entity 
+   dotnet ef migrations add AddEntityName -p C:\Users\user\source\repos\smartwallet1\smartwallet1.web
+
+
+
+      
+
+
